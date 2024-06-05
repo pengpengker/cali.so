@@ -26,7 +26,7 @@ function Designer() {
         <span className="absolute -bottom-[3.5px] -left-[3.5px] size-1.5 border border-lime-700 bg-zinc-50 dark:border-lime-400" />
         <span className="absolute -right-[3.5px] -top-[3.5px] size-1.5 border border-lime-700 bg-zinc-50 dark:border-lime-400" />
       </span>
-      设计师
+      审美师
     </span>
   )
 }
@@ -125,7 +125,7 @@ export function Headline() {
         />
         <SocialLink href="/feed.xml" platform="rss" aria-label="RSS 订阅" />
         <SocialLink
-          href="mailto:hi@cali.so"
+          href="mailto:pengpengker9@raisedsellers.com"
           aria-label="我的邮箱"
           platform="mail"
         />
