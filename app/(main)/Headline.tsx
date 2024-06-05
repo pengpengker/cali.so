@@ -80,10 +80,10 @@ export function Headline() {
         }}
       >
         <Balancer>
-          我是 Cali，
-          <PeekabooLink href="https://zolplay.com">佐玩</PeekabooLink>
-          创始人，目前带领着佐玩致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。
-          我热爱开发，设计，创新，享受生活，以及在未知领域中探索。
+          我是 Pg，
+          <PeekabooLink href="https://raisedsellers.com">崛起卖家</PeekabooLink>
+          创始人，目前带领着崛起卖家致力于创造一个电商和技术团体小圈子，同时鼓励圈子自给自足。
+          我热爱开发，欣赏美，创新，享受生活，以及在未知领域中探索。
         </Balancer>
       </motion.p>
       <motion.div
@@ -98,28 +98,14 @@ export function Headline() {
           delay: 0.25,
         }}
       >
+        
         <SocialLink
-          href="https://cali.so/twitter"
-          aria-label="我的推特"
-          platform="twitter"
-        />
-        <SocialLink
-          href="https://cali.so/youtube"
-          aria-label="我的 YouTube"
-          platform="youtube"
-        />
-        <SocialLink
-          href="https://cali.so/bilibili"
-          aria-label="我的 Bilibili"
-          platform="bilibili"
-        />
-        <SocialLink
-          href="https://cali.so/github"
+          href="https://github.com/pengpengker"
           aria-label="我的 GitHub"
           platform="github"
         />
         <SocialLink
-          href="https://cali.so/tg"
+          href="https://t.me/fuc_kdog"
           aria-label="我的 Telegram"
           platform="telegram"
         />
